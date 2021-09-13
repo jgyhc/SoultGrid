@@ -1,6 +1,6 @@
-# canvas_demo
+# 简介
 
-A new Flutter project.
+一个用flutter实现的舒尔特方格小游戏
 
 ## Getting Started
 
