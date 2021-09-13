@@ -15,5 +15,11 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+## 效果图
 ![image](https://user-images.githubusercontent.com/16422230/133028288-1eb4435a-bfd2-4d98-9956-36dc4bb5300c.png)
+## 三方库
+`GetX`
+## 运用到的Flutter知识点
+- 使用Canvas绘制图形
+- 动画
 
